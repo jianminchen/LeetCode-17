@@ -13,6 +13,7 @@ This repository keeps a list of the LeetCode problems I've solved. The threshold
 - 299. [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)
 
 ## Failed Problems
+- 165. [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)
 - 212. [Word Search II](https://leetcode.com/problems/word-search-ii/)
 - 223. [Rectangle Area](https://leetcode.com/problems/rectangle-area/)
 - 251. [Flatten 2D Vector](https://leetcode.com/problems/flatten-2d-vector/)
@@ -25,15 +26,18 @@ This repository keeps a list of the LeetCode problems I've solved. The threshold
 - 213. [House Robber II](https://leetcode.com/problems/house-robber-ii/)
 - 221. [Maximal Square](https://leetcode.com/problems/maximal-square/)
 
-## Submissions (110 / 331)
+## Submissions (127 / 331)
 |#|Problem|Solution|Difficulty|Date|Time|#Sub|Comment|
 |---|---|---|---|---|---|---|---|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[1_v1.cpp](1_v1.cpp)|Easy|5/9/2016|5'38"|2|O(n) Hash|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[2_v1.cpp](2_v1.cpp)|Medium|5/10/2016|3'08"|1||
 |6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)|[6_v1.cpp](6_v1.cpp)|Easy|5/9/2016|2'43"|2||
+|7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[7_v1.cpp](7_v1.cpp)|Easy|5/15/2016|2'37"|1||
+|8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|[8_v1.cpp](8_v1.cpp)|Easy|5/15/2016|6'33"|2||
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[9_v1.cpp](9_v1.cpp)|Easy|5/14/2016|2'22"|2||
 |10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)|[10_v1.cpp](10_v1.cpp)|Hard|5/11/2016|12'54"|3||
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[13_v1.cpp](13_v1.cpp)|Easy|5/11/2016|2'38"|1||
+|14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[14_v1.cpp](14_v1.cpp)|Easy|5/15/2016|1'38"|1||
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[19_v1.cpp](19_v1.cpp)|Easy|5/14/2016|2'28"|1||
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[20_v1.cpp](20_v1.cpp)|Easy|5/10/2016|2'15"|1||
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[21_v1.cpp](21_v1.cpp)|Easy|5/11/2016|2'14"|1||
@@ -43,14 +47,17 @@ This repository keeps a list of the LeetCode problems I've solved. The threshold
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[24_v2.cpp](24_v2.cpp)|Easy|5/13/2016|5'04"|1|O(1) space|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[26_v1.cpp](26_v1.cpp)|Easy|5/14/2016|1'42"|1||
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)|[27_v1.cpp](27_v1.cpp)|Easy|5/13/2016|0'43"|1||
+|28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[28_v1.cpp](28_v1.cpp)|Easy|5/15/2016|2'14"|2||
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[36_v1.cpp](36_v1.cpp)|Easy|5/7/2016|6'9"|2||
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[36_v1_im.cpp](36_v1_im.cpp)|Easy|5/7/2016|1'58"|1|[Discussion](https://leetcode.com/discuss/23901/my-short-solution-by-c-o-n2)|
+|38|[Count and Say](https://leetcode.com/problems/count-and-say/)|[38_v1.cpp](38_v1.cpp)|Easy|5/14/2016|3'33"|1||
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/)|[39_v1.cpp](39_v1.cpp)|Medium|5/7/2016|2'59"|1||
 |44|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)|[44_v1.cpp](44_v1.cpp)|Hard|5/7/2016|5'42"|2|O(mn) DP solution|
 |46|[Permutations](https://leetcode.com/problems/permutations/)|[46_v1.cpp](46_v1.cpp)|Medium|5/11/2016|5'01"|1||
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[53_v1.cpp](53_v1.cpp)|Medium|5/11/2016|2'10"|1||
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[58_v1.cpp](58_v1.cpp)|Easy|5/14/2016|2'03"|1||
 |66|[Plus One](https://leetcode.com/problems/plus-one/)|[66_v1.cpp](66_v1.cpp)|Easy|5/14/2016|2'59"|1||
+|67|[Add Binary](https://leetcode.com/problems/add-binary/)|[67_v1.cpp](67_v1.cpp)|Easy|5/15/2016|3'42"|1||
 |68|[Text Justification](https://leetcode.com/problems/text-justification/)|[68_v1.cpp](68_v1.cpp)|Hard|5/12/2016|11'05"|2||
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[70_v1.cpp](70_v1.cpp)|Easy|5/11/2016|0'36"|1||
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[83_v1.cpp](83_v1.cpp)|Easy|5/11/2016|2'07"|1||
@@ -69,6 +76,7 @@ This repository keeps a list of the LeetCode problems I've solved. The threshold
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[118_v1.cpp](118_v1.cpp)|Easy|5/14/2016|2'17"|1||
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[119_v1.cpp](119_v1.cpp)|Easy|5/14/2016|2'07"|1||
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[121_v1.cpp](121_v1.cpp)|Easy|5/11/2016|1'40"|2||
+|125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[125_v1.cpp](125_v1.cpp)|Easy|5/15/2016|3'34"|1||
 |127|[Word Ladder](https://leetcode.com/problems/word-ladder/)|[127_v1.cpp](127_v1.cpp)|Medium|5/7/2016|5'46"|5||
 |127|[Word Ladder](https://leetcode.com/problems/word-ladder/)|[127_v2.cpp](127_v2.cpp)|Medium|5/9/2016|6'34"|5|Two-way BFS|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[136_v1.cpp](136_v1.cpp)|Medium|5/10/2016|0'23"|1||
@@ -86,15 +94,20 @@ This repository keeps a list of the LeetCode problems I've solved. The threshold
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[160_v1.cpp](160_v1.cpp)|Easy|5/10/2016|3'14"|3|Preprocess linked list lengths|
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[160_v2.cpp](160_v2.cpp)|Easy|5/10/2016|1'23"|2|[Discussion](https://leetcode.com/discuss/66203/java-solution-without-knowing-the-difference-in-len)|
 |161|[One Edit Distance](https://leetcode.com/problems/one-edit-distance/)|[161_v1.cpp](161_v1.cpp)|Medium|5/14/2016|3'50"|2||
+|165|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)|[165_v1.cpp](165_v1.cpp)|Easy|5/15/2016|**12'42"**|5||
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[167_v1.cpp](167_v1.cpp)|Medium|5/14/2016|1'03"|1||
+|168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)|[168_v1.cpp](168_v1.cpp)|Easy|5/15/2016|2'40"|1||
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)|[169_v1.cpp](169_v1.cpp)|Easy|5/11/2016|0'42"|1||
+|170|[Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii-data-structure-design/)|[170_v1.cpp](170_v1.cpp)|Easy|5/15/2016|1'53"|1||
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|[171_v1.cpp](171_v1.cpp)|Easy|5/11/2016|1'14"|1||
 |172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)|[172_v1.cpp](172_v1.cpp)|Easy|5/11/2016|1'29"|1||
+|189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[189_v1.cpp](189_v1.cpp)|Easy|5/15/2016|2'11"|1|[Discussion](https://leetcode.com/discuss/27387/summary-of-c-solutions)|
 |190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/)|[190_v1.cpp](190_v1.cpp)|Easy|5/10/2016|1'00"|1||
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[191_v1.cpp](191_v1.cpp)|Easy|5/10/2016|0'41"|1||
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[191_v1_im.cpp](191_v1_im.cpp)|Easy|5/10/2016|0'18"|1|[Discussion](https://leetcode.com/discuss/27609/short-code-by-time-the-count-and-another-several-method-time)|
 |198|[House Robber](https://leetcode.com/problems/house-robber/)|[198_v1.cpp](198_v1.cpp)|Easy|5/10/2016|2'59"|2||
 |202|[Happy Number](https://leetcode.com/problems/happy-number/)|[202_v1.cpp](202_v1.cpp)|Easy|5/10/2016|2'02"|1||
+|203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[203_v1.cpp](203_v1.cpp)|Easy|5/15/2016|1'46"|1||
 |204|[Count Primes](https://leetcode.com/problems/count-primes/)|[204_v1.cpp](204_v1.cpp)|Easy|5/14/2016|1'20"|2||
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[205_v1.cpp](205_v1.cpp)|Easy|5/14/2016|6'58"|4||
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[206_v1.cpp](206_v1.cpp)|Easy|5/11/2016|1'09"|1||
@@ -112,6 +125,7 @@ This repository keeps a list of the LeetCode problems I've solved. The threshold
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[226_v1.cpp](226_v1.cpp)|Easy|5/11/2016|1'23"|1||
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/)|[231_v1.cpp](231_v1.cpp)|Easy|5/11/2016|0'45"|2||
 |232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|[232_v1.cpp](232_v1.cpp)|Easy|5/13/2016|5'07"|1||
+|234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[234_v1.cpp](234_v1.cpp)|Easy|5/15/2016|5'54"|1||
 |235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|[235_v1.cpp](235_v1.cpp)|Easy|5/11/2016|2'36"|2||
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[237_v1.cpp](237_v1.cpp)|Easy|5/11/2016|4'28"|2||
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[238_v1.cpp](238_v1.cpp)|Medium|5/11/2016|4'23"|1|O(n) space|
@@ -128,6 +142,7 @@ This repository keeps a list of the LeetCode problems I've solved. The threshold
 |252|[Meeting Rooms](https://leetcode.com/problems/meeting-rooms/)|[252_v1.cpp](252_v1.cpp)|Easy|5/11/2016|2'03"|1||
 |254|[Factor Combinations](https://leetcode.com/problems/factor-combinations/)|[254_v1.cpp](254_v1.cpp)|Medium|5/11/2016|4'27"|1||
 |256|[Paint House](https://leetcode.com/problems/paint-house/)|[256_v1.cpp](256_v1.cpp)|Medium|5/11/2016|2'24"|1||
+|257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[257_v1.cpp](257_v1.cpp)|Easy|5/15/2016|2'55"|1||
 |258|[Add Digits](https://leetcode.com/problems/add-digits/)|[258_v1.cpp](258_v1.cpp)|Easy|5/10/2016|1'29"|1||
 |258|[Add Digits](https://leetcode.com/problems/add-digits/)|[258_v2.cpp](258_v2.cpp)|Easy|5/10/2016|0'37"|1||
 |260|[Single Number III](https://leetcode.com/problems/single-number-iii/)||Medium|5/14/2016|**Failed**|||
@@ -139,9 +154,11 @@ This repository keeps a list of the LeetCode problems I've solved. The threshold
 |270|[Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/)|[270_v1.cpp](270_v1.cpp)|Easy|5/13/2016|3'30"|1||
 |276|[Paint Fence](https://leetcode.com/problems/paint-fence/)|[276_v1.cpp](276_v1.cpp)|Easy|5/14/2016|5'49"|2||
 |277|[Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/)|[277_v1.cpp](277_v1.cpp)|Medium|5/11/2016|7'34"|5||
+|278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|[278_v1.cpp](278_v1.cpp)|Easy|5/15/2016|1'34"|3||
 |280|[Wiggle Sort](https://leetcode.com/problems/wiggle-sort/)|[280_v1.cpp](280_v1.cpp)|Medium|5/14/2016|4'58"|1||
 |281|[Zigzag Iterator](https://leetcode.com/problems/zigzag-iterator/)|[281_v1.cpp](281_v1.cpp)|Medium|5/14/2016|5'36"|1||
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[283_v1.cpp](283_v1.cpp)|Easy|5/11/2016|2'41"|2||
+|288|[Unique Word Abbreviation](https://leetcode.com/problems/unique-word-abbreviation/)|[288_v1.cpp](288_v1.cpp)|Easy|5/15/2016|5'38"|1||
 |289|[Game of Life](https://leetcode.com/problems/game-of-life/)|[289_v1.cpp](289_v1.cpp)|Medium|5/14/2016|4'51"|1||
 |289|[Game of Life](https://leetcode.com/problems/game-of-life/)|[289_v2.cpp](289_v2.cpp)|Medium|5/14/2016|11'10"|1|In place|
 |290|[Word Pattern](https://leetcode.com/problems/word-pattern/)|[290_v1.cpp](290_v1.cpp)|Easy|5/14/2016|9'30"|2||
@@ -149,6 +166,7 @@ This repository keeps a list of the LeetCode problems I've solved. The threshold
 |293|[Flip Game](https://leetcode.com/problems/flip-game/)|[293_v1.cpp](293_v1.cpp)|Easy|5/10/2016|1'22"|1||
 |299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)|[299_v1.cpp](299_v1.cpp)|Easy|5/14/2016|3'50"|2||
 |299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)|[299_v2.cpp](299_v2.cpp)|Easy|5/14/2016|1'32"|1|[Discussion](https://leetcode.com/discuss/67031/one-pass-java-solution)|
+|303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)|[303_v1.cpp](303_v1.cpp)|Easy|5/15/2016|1'59"|2||
 |311|[Sparse Matrix Multiplication](https://leetcode.com/problems/sparse-matrix-multiplication/)|[311_v1.cpp](311_v1.cpp)|Medium|5/11/2016|4'25"|1||
 |314|[Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/)|[314_v1.cpp](314_v1.cpp)|Medium|5/14/2016|4'23"|2||
 |325|[Maximum Size Subarray Sum Equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/)|[325_v1.cpp](325_v1.cpp)|Easy|5/11/2016|6'57"|1||
