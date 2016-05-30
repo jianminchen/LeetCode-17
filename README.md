@@ -23,12 +23,13 @@ This repository keeps a list of the LeetCode problems I've solved. The threshold
 - 326. [Power of Three](https://leetcode.com/problems/power-of-three/)
 - 328. [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)
 - 336. [Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/)
+- 351. [Android Unlock Patterns](https://leetcode.com/problems/android-unlock-patterns/)
 
 ## Problems to Review
 - 213. [House Robber II](https://leetcode.com/problems/house-robber-ii/)
 - 221. [Maximal Square](https://leetcode.com/problems/maximal-square/)
 
-## Submissions (148 / 331)
+## Submissions (153 / 334)
 |#|Problem|Solution|Difficulty|Date|Time|#Sub|Comment|
 |---|---|---|---|---|---|---|---|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[1_v1.cpp](1_v1.cpp)|Easy|5/9/2016|5'38"|2|O(n) Hash|
@@ -56,6 +57,7 @@ This repository keeps a list of the LeetCode problems I've solved. The threshold
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[36_v1_im.cpp](36_v1_im.cpp)|Easy|5/7/2016|1'58"|1|[Discussion](https://leetcode.com/discuss/23901/my-short-solution-by-c-o-n2)|
 |38|[Count and Say](https://leetcode.com/problems/count-and-say/)|[38_v1.cpp](38_v1.cpp)|Easy|5/14/2016|3'33"|1||
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/)|[39_v1.cpp](39_v1.cpp)|Medium|5/7/2016|2'59"|1||
+|43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/)|[43_v1.cpp](43_v1.cpp)|Medium|5/30/2016|6'13"|2||
 |44|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)|[44_v1.cpp](44_v1.cpp)|Hard|5/7/2016|5'42"|2|O(mn) DP solution|
 |46|[Permutations](https://leetcode.com/problems/permutations/)|[46_v1.cpp](46_v1.cpp)|Medium|5/11/2016|5'01"|1||
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[53_v1.cpp](53_v1.cpp)|Medium|5/11/2016|2'10"|1||
@@ -181,6 +183,8 @@ This repository keeps a list of the LeetCode problems I've solved. The threshold
 |292|[Nim Game](https://leetcode.com/problems/nim-game/)|[292_v1.cpp](292_v1.cpp)|Easy|5/10/2016|1'50"|1||
 |293|[Flip Game](https://leetcode.com/problems/flip-game/)|[293_v1.cpp](293_v1.cpp)|Easy|5/10/2016|1'22"|1||
 |294|[Flip Game II](https://leetcode.com/problems/flip-game-ii/)|[294_v1.cpp](294_v1.cpp)|Medium|5/15/2016|5'11"|2||
+|297|[Serialized and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)|[297_v1.cpp](297_v1.cpp)|Hard|5/30/2016|21'53"|1||
+|297|[Serialized and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)|[297_v2.cpp](297_v2.cpp)|Hard|5/30/2016|5'50"|1|[Discussion](https://leetcode.com/discuss/66147/recursive-preorder-python-and-c-o-n)|
 |299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)|[299_v1.cpp](299_v1.cpp)|Easy|5/14/2016|3'50"|2||
 |299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)|[299_v2.cpp](299_v2.cpp)|Easy|5/14/2016|1'32"|1|[Discussion](https://leetcode.com/discuss/67031/one-pass-java-solution)|
 |303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)|[303_v1.cpp](303_v1.cpp)|Easy|5/15/2016|1'59"|2||
@@ -207,3 +211,8 @@ This repository keeps a list of the LeetCode problems I've solved. The threshold
 |346|[Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/)|[346_v1.cpp](346_v1.cpp)|Easy|5/10/2016|1'56"|1||
 |348|[Design Tic-Tac-Toe](https://leetcode.com/problems/design-tic-tac-toe/)|[348_v1.cpp](348_v1.cpp)|Medium|5/14/2016|16'57"|2||
 |348|[Design Tic-Tac-Toe](https://leetcode.com/problems/design-tic-tac-toe/)|[348_v2.cpp](348_v2.cpp)|Medium|5/14/2016|3'34"|2||
+|349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[349_v1.cpp](349_v1.cpp)|Easy|5/30/2016|3'19"|2||
+|350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[350_v1.cpp](350_v1.cpp)|Easy|5/30/2016|1'20"|1||
+|351|[Android Unlock Patterns](https://leetcode.com/problems/android-unlock-patterns/)||Medium|5/30/2016|**Failed**|||
+|351|[Android Unlock Patterns](https://leetcode.com/problems/android-unlock-patterns/)|[351_v1.cpp](351_v1.cpp)|Medium|5/30/2016|11'08"|1|[Discussion](https://leetcode.com/discuss/104500/java-solution-with-clear-explanations-and-optimization-81ms)|
+|351|[Android Unlock Patterns](https://leetcode.com/problems/android-unlock-patterns/)|[351_v2.cpp](351_v2.cpp)|Medium|5/30/2016|10'32"|1|DP|
