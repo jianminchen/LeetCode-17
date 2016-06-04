@@ -29,7 +29,7 @@ This repository keeps a list of the LeetCode problems I've solved. The threshold
 - 213. [House Robber II](https://leetcode.com/problems/house-robber-ii/)
 - 221. [Maximal Square](https://leetcode.com/problems/maximal-square/)
 
-## Submissions (169 / 335)
+## Submissions (172 / 336)
 |#|Problem|Solution|Difficulty|Date|Time|#Sub|Comment|
 |---|---|---|---|---|---|---|---|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[1_v1.cpp](1_v1.cpp)|Easy|5/9/2016|5'38"|2|O(n) Hash|
@@ -89,6 +89,7 @@ This repository keeps a list of the LeetCode problems I've solved. The threshold
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[119_v1.cpp](119_v1.cpp)|Easy|5/14/2016|2'07"|1||
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[121_v1.cpp](121_v1.cpp)|Easy|5/11/2016|1'40"|2||
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[122_v1.cpp](122_v1.cpp)|Medium|5/15/2016|2'01"|1||
+|123|[Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)|[123_v1.cpp](123_v1.cpp)|Hard|6/3/2016|6'36"|1||
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[125_v1.cpp](125_v1.cpp)|Easy|5/15/2016|3'34"|1||
 |127|[Word Ladder](https://leetcode.com/problems/word-ladder/)|[127_v1.cpp](127_v1.cpp)|Medium|5/7/2016|5'46"|5||
 |127|[Word Ladder](https://leetcode.com/problems/word-ladder/)|[127_v2.cpp](127_v2.cpp)|Medium|5/9/2016|6'34"|5|Two-way BFS|
@@ -121,6 +122,8 @@ This repository keeps a list of the LeetCode problems I've solved. The threshold
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|[171_v1.cpp](171_v1.cpp)|Easy|5/11/2016|1'14"|1||
 |172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)|[172_v1.cpp](172_v1.cpp)|Easy|5/11/2016|1'29"|1||
 |187|[Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)|[187_v1.cpp](187_v1.cpp)|Medium|5/31/2016|8'50"|1||
+|188|[Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)||Hard|6/1/2016|**Failed**|3|O(nk) TLE|
+|188|[Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)|[188_v1.cpp](188_v1.cpp)|Hard|6/3/2016|4'28"|1||
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[189_v1.cpp](189_v1.cpp)|Easy|5/15/2016|2'11"|1|[Discussion](https://leetcode.com/discuss/27387/summary-of-c-solutions)|
 |190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/)|[190_v1.cpp](190_v1.cpp)|Easy|5/10/2016|1'00"|1||
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[191_v1.cpp](191_v1.cpp)|Easy|5/10/2016|0'41"|1||
@@ -152,6 +155,7 @@ This repository keeps a list of the LeetCode problems I've solved. The threshold
 |232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|[232_v1.cpp](232_v1.cpp)|Easy|5/13/2016|5'07"|1||
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[234_v1.cpp](234_v1.cpp)|Easy|5/15/2016|5'54"|1||
 |235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|[235_v1.cpp](235_v1.cpp)|Easy|5/11/2016|2'36"|2||
+|236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|[236_v1.cpp](236_v1.cpp)|Medium|6/1/2016|9'52"|2||
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[237_v1.cpp](237_v1.cpp)|Easy|5/11/2016|4'28"|2||
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[238_v1.cpp](238_v1.cpp)|Medium|5/11/2016|4'23"|1|O(n) space|
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[238_v2.cpp](238_v2.cpp)|Medium|5/11/2016|4'23"|1|O(1) space, [Discussion](https://leetcode.com/discuss/46104/simple-java-solution-in-o-n-without-extra-space)|
