@@ -29,7 +29,7 @@ This repository keeps a list of the LeetCode problems I've solved. The threshold
 - 213. [House Robber II](https://leetcode.com/problems/house-robber-ii/)
 - 221. [Maximal Square](https://leetcode.com/problems/maximal-square/)
 
-## Submissions (196 / 336)
+## Submissions (200 / 336)
 |#|Problem|Solution|Difficulty|Date|Time|#Sub|Comment|
 |---|---|---|---|---|---|---|---|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[1_v1.cpp](1_v1.cpp)|Easy|5/9/2016|5'38"|2|O(n) Hash|
@@ -97,6 +97,7 @@ This repository keeps a list of the LeetCode problems I've solved. The threshold
 |110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)|[110_v1.cpp](110_v1.cpp)|Easy|5/13/2016|5'23"|2||
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)|[111_v1.cpp](111_v1.cpp)|Easy|5/14/2016|3'27"|1||
 |112|[Path Sum](https://leetcode.com/problems/path-sum/)|[112_v1.cpp](112_v1.cpp)|Easy|5/14/2016|2'11"|3||
+|113|[Path Sum II](https://leetcode.com/problems/path-sum-ii/)|[113_v1.cpp](113_v1.cpp)|Medium|6/6/2016|2'59"|1||
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[118_v1.cpp](118_v1.cpp)|Easy|5/14/2016|2'17"|1||
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[119_v1.cpp](119_v1.cpp)|Easy|5/14/2016|2'07"|1||
 |120|[Triangle](https://leetcode.com/problems/triangle/)|[120_v1.cpp](120_v1.cpp)|Medium|6/5/2016|5'54"|1||
@@ -116,6 +117,7 @@ This repository keeps a list of the LeetCode problems I've solved. The threshold
 |140|[Word Break II](https://leetcode.com/problems/word-break-ii/)|[140_v2.cpp](140_v2.cpp)|Hard|5/9/2016|8'46"|1|Top-down DP|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[141_v1.cpp](141_v1.cpp)|Easy|5/9/2016|2'59"|3||
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[141_v1_im.cpp](141_v1_im.cpp)|Easy|5/9/2016|0'50"|2|[Discussion](https://leetcode.com/discuss/32906/o-1-space-solution)|
+|142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|[142_v1.cpp](142_v1.cpp)|Medium|6/6/2016|2'13"|1||
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|[144_v1.cpp](144_v1.cpp)|Medium|5/15/2016|6'14"|1||
 |146|[LRU Cache](https://leetcode.com/problems/lru-cache/)|[146_v1.cpp](146_v1.cpp)|Hard|5/14/2016|13'29"|12||
 |146|[LRU Cache](https://leetcode.com/problems/lru-cache/)|[146_v2.cpp](146_v2.cpp)|Hard|5/14/2016|5'18"|3|[Discussion](https://leetcode.com/discuss/20619/c-11-code-74ms-hash-table-list)|
@@ -178,6 +180,8 @@ This repository keeps a list of the LeetCode problems I've solved. The threshold
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[237_v1.cpp](237_v1.cpp)|Easy|5/11/2016|4'28"|2||
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[238_v1.cpp](238_v1.cpp)|Medium|5/11/2016|4'23"|1|O(n) space|
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[238_v2.cpp](238_v2.cpp)|Medium|5/11/2016|4'23"|1|O(1) space, [Discussion](https://leetcode.com/discuss/46104/simple-java-solution-in-o-n-without-extra-space)|
+|240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|[240_v1.cpp](240_v1.cpp)|Medium|6/6/2016|2'31"|1||
+|241|[Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/)|[241_v1.cpp](241_v1.cpp)|Medium|6/6/2016|6'30"|1||
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[242_v1.cpp](242_v1.cpp)|Easy|5/11/2016|0'24"|1||
 |243|[Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/)|[243_v1.cpp](243_v1.cpp)|Easy|5/11/2016|2'03"|1||
 |244|[Shortest Word Distance II](https://leetcode.com/problems/shortest-word-distance-ii/)|[244_v1.cpp](244_v1.cpp)|Medium|5/11/2016|3'37"|2||
