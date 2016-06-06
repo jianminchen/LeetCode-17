@@ -14,6 +14,7 @@ This repository keeps a list of the LeetCode problems I've solved. The threshold
 - 299. [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)
 
 ## Failed Problems
+- 130. [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)
 - 165. [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)
 - 212. [Word Search II](https://leetcode.com/problems/word-search-ii/)
 - 223. [Rectangle Area](https://leetcode.com/problems/rectangle-area/)
@@ -29,7 +30,7 @@ This repository keeps a list of the LeetCode problems I've solved. The threshold
 - 213. [House Robber II](https://leetcode.com/problems/house-robber-ii/)
 - 221. [Maximal Square](https://leetcode.com/problems/maximal-square/)
 
-## Submissions (201 / 336)
+## Submissions (202 / 336)
 |#|Problem|Solution|Difficulty|Date|Time|#Sub|Comment|
 |---|---|---|---|---|---|---|---|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[1_v1.cpp](1_v1.cpp)|Easy|5/9/2016|5'38"|2|O(n) Hash|
@@ -109,6 +110,7 @@ This repository keeps a list of the LeetCode problems I've solved. The threshold
 |127|[Word Ladder](https://leetcode.com/problems/word-ladder/)|[127_v1.cpp](127_v1.cpp)|Medium|5/7/2016|5'46"|5||
 |127|[Word Ladder](https://leetcode.com/problems/word-ladder/)|[127_v2.cpp](127_v2.cpp)|Medium|5/9/2016|6'34"|5|Two-way BFS|
 |129|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|[129_v1.cpp](129_v1.cpp)|Medium|6/5/2016|3'14"|1||
+|130|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)|[130_v1.cpp](130_v1.cpp)|Medium|6/6/2016|**23'45"**|2||
 |131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)|[131_v1.cpp](131_v1.cpp)|Medium|5/31/2016|5'07"|2||
 |132|[Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/)|[132_v1.cpp](132_v1.cpp)|Hard|6/5/2016|4'25"|1||
 |134|[Gas Station](https://leetcode.com/problems/gas-station/)|[134_v1.cpp](134_v1.cpp)|Medium|6/5/2016|7'09"|2||
