@@ -30,7 +30,7 @@ This repository keeps a list of the LeetCode problems I've solved. The threshold
 - 213. [House Robber II](https://leetcode.com/problems/house-robber-ii/)
 - 221. [Maximal Square](https://leetcode.com/problems/maximal-square/)
 
-## Submissions (202 / 336)
+## Submissions (205 / 337)
 |#|Problem|Solution|Difficulty|Date|Time|#Sub|Comment|
 |---|---|---|---|---|---|---|---|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[1_v1.cpp](1_v1.cpp)|Easy|5/9/2016|5'38"|2|O(n) Hash|
@@ -63,6 +63,7 @@ This repository keeps a list of the LeetCode problems I've solved. The threshold
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[35_v1.cpp](35_v1.cpp)|Medium|5/16/2016|3'08"|1||
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[36_v1.cpp](36_v1.cpp)|Easy|5/7/2016|6'9"|2||
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[36_v1_im.cpp](36_v1_im.cpp)|Easy|5/7/2016|1'58"|1|[Discussion](https://leetcode.com/discuss/23901/my-short-solution-by-c-o-n2)|
+|37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)|[37_v1.cpp](37_v1.cpp)|Hard|6/6/2016|7'33"|2||
 |38|[Count and Say](https://leetcode.com/problems/count-and-say/)|[38_v1.cpp](38_v1.cpp)|Easy|5/14/2016|3'33"|1||
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/)|[39_v1.cpp](39_v1.cpp)|Medium|5/7/2016|2'59"|1||
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[42_v1.cpp](42_v1.cpp)|Hard|6/6/2016|3'36"|1||
@@ -72,6 +73,7 @@ This repository keeps a list of the LeetCode problems I've solved. The threshold
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|[50_v1.cpp](50_v1.cpp)|Medium|6/5/2016|3'02"|2||
 |51|[N-Queens](https://leetcode.com/problems/n-queens/)|[51_v1.cpp](51_v1.cpp)|Hard|6/5/2016|5'34"|1||
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[53_v1.cpp](53_v1.cpp)|Medium|5/11/2016|2'10"|1||
+|55|[Jump Game](https://leetcode.com/problems/jump-game/)|[55_v1.cpp](55_v1.cpp)|Medium|6/6/2016|2'05"|1||
 |57|[Insert Interval](https://leetcode.com/problems/insert-interval/)|[57_v1.cpp](57_v1.cpp)|Hard|5/31/2016|4'45"|1||
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[58_v1.cpp](58_v1.cpp)|Easy|5/14/2016|2'03"|1||
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/)|[62_v1.cpp](62_v1.cpp)|Medium|6/5/2016|1'23"|1||
@@ -238,6 +240,7 @@ This repository keeps a list of the LeetCode problems I've solved. The threshold
 |303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)|[303_v1.cpp](303_v1.cpp)|Easy|5/15/2016|1'59"|2||
 |311|[Sparse Matrix Multiplication](https://leetcode.com/problems/sparse-matrix-multiplication/)|[311_v1.cpp](311_v1.cpp)|Medium|5/11/2016|4'25"|1||
 |314|[Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/)|[314_v1.cpp](314_v1.cpp)|Medium|5/14/2016|4'23"|2||
+|317|[Shortest Distance from All Buildings](https://leetcode.com/problems/shortest-distance-from-all-buildings/)|[317_v1.cpp](317_v1.cpp)|Hard|6/6/2016|10'49"|3||
 |318|[Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/)|[318_v1.cpp](318_v1.cpp)|Medium|5/15/2016|9'49"|1||
 |319|[Bulb Switcher](https://leetcode.com/problems/bulb-switcher/)|[319_v1.cpp](319_v1.cpp)|Medium|5/15/2016|0'59"|1||
 |320|[Generalized Abbreviation](https://leetcode.com/problems/generalized-abbreviation/)|[320_v1.cpp](320_v1.cpp)|Medium|5/15/2016|6'21"|2||
