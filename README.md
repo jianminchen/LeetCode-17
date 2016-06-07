@@ -30,7 +30,7 @@ This repository keeps a list of the LeetCode problems I've solved. The threshold
 - 213. [House Robber II](https://leetcode.com/problems/house-robber-ii/)
 - 221. [Maximal Square](https://leetcode.com/problems/maximal-square/)
 
-## Submissions (205 / 337)
+## Submissions (210 / 337)
 |#|Problem|Solution|Difficulty|Date|Time|#Sub|Comment|
 |---|---|---|---|---|---|---|---|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[1_v1.cpp](1_v1.cpp)|Easy|5/9/2016|5'38"|2|O(n) Hash|
@@ -70,12 +70,15 @@ This repository keeps a list of the LeetCode problems I've solved. The threshold
 |43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/)|[43_v1.cpp](43_v1.cpp)|Medium|5/30/2016|6'13"|2||
 |44|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)|[44_v1.cpp](44_v1.cpp)|Hard|5/7/2016|5'42"|2|O(mn) DP solution|
 |46|[Permutations](https://leetcode.com/problems/permutations/)|[46_v1.cpp](46_v1.cpp)|Medium|5/11/2016|5'01"|1||
+|49|[Group Anagrams](https://leetcode.com/problems/anagrams/)|[49_v1.cpp](49_v1.cpp)|Medium|6/6/2016|2'16"|1||
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|[50_v1.cpp](50_v1.cpp)|Medium|6/5/2016|3'02"|2||
 |51|[N-Queens](https://leetcode.com/problems/n-queens/)|[51_v1.cpp](51_v1.cpp)|Hard|6/5/2016|5'34"|1||
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[53_v1.cpp](53_v1.cpp)|Medium|5/11/2016|2'10"|1||
+|54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[54_v1.cpp](54_v1.cpp)|Medium|6/6/2016|3'30"|1||
 |55|[Jump Game](https://leetcode.com/problems/jump-game/)|[55_v1.cpp](55_v1.cpp)|Medium|6/6/2016|2'05"|1||
 |57|[Insert Interval](https://leetcode.com/problems/insert-interval/)|[57_v1.cpp](57_v1.cpp)|Hard|5/31/2016|4'45"|1||
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[58_v1.cpp](58_v1.cpp)|Easy|5/14/2016|2'03"|1||
+|59|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)|[59_v1.cpp](59_v1.cpp)|Medium|6/6/2016|2'39"|1||
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/)|[62_v1.cpp](62_v1.cpp)|Medium|6/5/2016|1'23"|1||
 |66|[Plus One](https://leetcode.com/problems/plus-one/)|[66_v1.cpp](66_v1.cpp)|Easy|5/14/2016|2'59"|1||
 |67|[Add Binary](https://leetcode.com/problems/add-binary/)|[67_v1.cpp](67_v1.cpp)|Easy|5/15/2016|3'42"|1||
@@ -115,6 +118,7 @@ This repository keeps a list of the LeetCode problems I've solved. The threshold
 |130|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)|[130_v1.cpp](130_v1.cpp)|Medium|6/6/2016|**23'45"**|2||
 |131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)|[131_v1.cpp](131_v1.cpp)|Medium|5/31/2016|5'07"|2||
 |132|[Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/)|[132_v1.cpp](132_v1.cpp)|Hard|6/5/2016|4'25"|1||
+|133|[Clone Graph](https://leetcode.com/problems/clone-graph/)|[133_v1.cpp](133_v1.cpp)|Medium|6/6/2016|3'28"|3||
 |134|[Gas Station](https://leetcode.com/problems/gas-station/)|[134_v1.cpp](134_v1.cpp)|Medium|6/5/2016|7'09"|2||
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[136_v1.cpp](136_v1.cpp)|Medium|5/10/2016|0'23"|1||
 |137|[Single Number II](https://leetcode.com/problems/single-number-ii/)|[137_v1.cpp](137_v1.cpp)|Medium|5/16/2016|2'18"|1||
@@ -123,6 +127,7 @@ This repository keeps a list of the LeetCode problems I've solved. The threshold
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[141_v1.cpp](141_v1.cpp)|Easy|5/9/2016|2'59"|3||
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[141_v1_im.cpp](141_v1_im.cpp)|Easy|5/9/2016|0'50"|2|[Discussion](https://leetcode.com/discuss/32906/o-1-space-solution)|
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|[142_v1.cpp](142_v1.cpp)|Medium|6/6/2016|2'13"|1||
+|143|[Reorder List](https://leetcode.com/problems/reorder-list/)|[143_v1.cpp](143_v1.cpp)|Medium|6/6/2016|14'09"|1||
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|[144_v1.cpp](144_v1.cpp)|Medium|5/15/2016|6'14"|1||
 |146|[LRU Cache](https://leetcode.com/problems/lru-cache/)|[146_v1.cpp](146_v1.cpp)|Hard|5/14/2016|13'29"|12||
 |146|[LRU Cache](https://leetcode.com/problems/lru-cache/)|[146_v2.cpp](146_v2.cpp)|Hard|5/14/2016|5'18"|3|[Discussion](https://leetcode.com/discuss/20619/c-11-code-74ms-hash-table-list)|
