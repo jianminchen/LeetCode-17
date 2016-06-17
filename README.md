@@ -36,9 +36,10 @@ This repository keeps a list of the LeetCode problems I've solved. The threshold
 
 ## Problems to Review
 - 213. [House Robber II](https://leetcode.com/problems/house-robber-ii/)
+- 214. [Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/)
 - 221. [Maximal Square](https://leetcode.com/problems/maximal-square/)
 
-## Submissions (282 / 342)
+## Submissions (284 / 343)
 |#|Problem|Solution|Difficulty|Date|Time|#Sub|Comment|
 |---|---|---|---|---|---|---|---|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[1_v1.cpp](1_v1.cpp)|Easy|5/9/2016|5'38"|2|O(n) Hash|
@@ -289,6 +290,8 @@ This repository keeps a list of the LeetCode problems I've solved. The threshold
 |270|[Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/)|[270_v1.cpp](270_v1.cpp)|Easy|5/13/2016|3'30"|1||
 |271|[Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/)|[271_v1.cpp](271_v1.cpp)|Medium|5/31/2016|5'35"|5||
 |273|[Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)|[273_v1.cpp](273_v1.cpp)|Hard|6/5/2016|12'57"|2||
+|274|[H-Index](https://leetcode.com/problems/h-index/)|[274_v1.cpp](274_v1.cpp)|Medium|6/17/2016|2'30"|1||
+|275|[H-Index II](https://leetcode.com/problems/h-index-ii/)|[275_v1.cpp](275_v1.cpp)|Medium|6/17/2016|8'12"|1||
 |276|[Paint Fence](https://leetcode.com/problems/paint-fence/)|[276_v1.cpp](276_v1.cpp)|Easy|5/14/2016|5'49"|2||
 |277|[Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/)|[277_v1.cpp](277_v1.cpp)|Medium|5/11/2016|7'34"|5||
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|[278_v1.cpp](278_v1.cpp)|Easy|5/15/2016|1'34"|3||
