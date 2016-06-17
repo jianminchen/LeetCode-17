@@ -38,7 +38,7 @@ This repository keeps a list of the LeetCode problems I've solved. The threshold
 - 213. [House Robber II](https://leetcode.com/problems/house-robber-ii/)
 - 221. [Maximal Square](https://leetcode.com/problems/maximal-square/)
 
-## Submissions (277 / 342)
+## Submissions (282 / 342)
 |#|Problem|Solution|Difficulty|Date|Time|#Sub|Comment|
 |---|---|---|---|---|---|---|---|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[1_v1.cpp](1_v1.cpp)|Easy|5/9/2016|5'38"|2|O(n) Hash|
@@ -57,6 +57,7 @@ This repository keeps a list of the LeetCode problems I've solved. The threshold
 |15|[3Sum](https://leetcode.com/problems/3sum/)|[15_v1.cpp](15_v1.cpp)|Medium|6/5/2016|2'53"|1||
 |16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/)|[16_v1.cpp](16_v1.cpp)|Medium|6/5/2016|2'14"|1||
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[17_v1.cpp](17_v1.cpp)|Medium|6/5/2016|6'41"|2||
+|18|[4Sum](https://leetcode.com/problems/4sum/)|[18_v1.cpp](18_v1.cpp)|Medium|6/16/2016|10'22"|2||
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[19_v1.cpp](19_v1.cpp)|Easy|5/14/2016|2'28"|1||
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[20_v1.cpp](20_v1.cpp)|Easy|5/10/2016|2'15"|1||
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[21_v1.cpp](21_v1.cpp)|Easy|5/11/2016|2'14"|1||
@@ -82,6 +83,7 @@ This repository keeps a list of the LeetCode problems I've solved. The threshold
 |44|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)|[44_v1.cpp](44_v1.cpp)|Hard|5/7/2016|5'42"|2|O(mn) DP solution|
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)|[45_v1.cpp](45_v1.cpp)|Hard|6/15/2016|15'44"|2||
 |46|[Permutations](https://leetcode.com/problems/permutations/)|[46_v1.cpp](46_v1.cpp)|Medium|5/11/2016|5'01"|1||
+|48|[Rotate Image](https://leetcode.com/problems/rotate-image/)|[48_v1.cpp](48_v1.cpp)|Medium|6/16/2016|2'39"|1||
 |49|[Group Anagrams](https://leetcode.com/problems/anagrams/)|[49_v1.cpp](49_v1.cpp)|Medium|6/6/2016|2'16"|1||
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|[50_v1.cpp](50_v1.cpp)|Medium|6/5/2016|3'02"|2||
 |51|[N-Queens](https://leetcode.com/problems/n-queens/)|[51_v1.cpp](51_v1.cpp)|Hard|6/5/2016|5'34"|1||
@@ -132,6 +134,7 @@ This repository keeps a list of the LeetCode problems I've solved. The threshold
 |103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)|[103_v1.cpp](103_v1.cpp)|Medium|6/10/2016|4'09"|1||
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[104_v1.cpp](104_v1.cpp)|Easy|5/11/2016|0'36"|1||
 |105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|[105_v1.cpp](105_v1.cpp)|Medium|6/7/2016|10'49"|1||
+|106|[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)|[106_v1.cpp](106_v1.cpp)|Medium|6/16/2016|4'46"|1||
 |107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)|[107_v1.cpp](107_v1.cpp)|Easy|5/13/2016|6'19"|1||
 |108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|[108_v1.cpp](108_v1.cpp)|Medium|5/10/2016|2'39"|1||
 |108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|[108_v1_im.cpp](108_v1_im.cpp)|Medium|5/10/2016|3'10"|1|[Discussion](https://leetcode.com/discuss/58943/16-ms-c-solution)|
@@ -306,6 +309,7 @@ This repository keeps a list of the LeetCode problems I've solved. The threshold
 |296|[Best Meeting Point](https://leetcode.com/problems/best-meeting-point/)|[296_v1.cpp](296_v1.cpp)|Hard|5/31/2016|7'27"|2||
 |297|[Serialized and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)|[297_v1.cpp](297_v1.cpp)|Hard|5/30/2016|21'53"|1||
 |297|[Serialized and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)|[297_v2.cpp](297_v2.cpp)|Hard|5/30/2016|5'50"|1|[Discussion](https://leetcode.com/discuss/66147/recursive-preorder-python-and-c-o-n)|
+|298|[Binary Tree Longest Consecutive Sequence](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/)|[298_v1.cpp](298_v1.cpp)|Medium|6/16/2016|4'01"|2||
 |299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)|[299_v1.cpp](299_v1.cpp)|Easy|5/14/2016|3'50"|2||
 |299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)|[299_v2.cpp](299_v2.cpp)|Easy|5/14/2016|1'32"|1|[Discussion](https://leetcode.com/discuss/67031/one-pass-java-solution)|
 |303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)|[303_v1.cpp](303_v1.cpp)|Easy|5/15/2016|1'59"|2||
@@ -351,5 +355,6 @@ This repository keeps a list of the LeetCode problems I've solved. The threshold
 |351|[Android Unlock Patterns](https://leetcode.com/problems/android-unlock-patterns/)|[351_v2.cpp](351_v2.cpp)|Medium|5/30/2016|10'32"|1|DP|
 |353|[Design Snake Game](https://leetcode.com/problems/design-snake-game/)|[353_v1.cpp](353_v1.cpp)|Medium|6/9/2016|**27'36"**|4||
 |354|[Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/)|[354_v1.cpp](354_v1.cpp)|Hard|6/15/2016|2'53"|2||
+|355|[Design Twitter](https://leetcode.com/problems/design-twitter/)|[355_v1.cpp](355_v1.cpp)|Medium|6/16/2016|16'35"|3||
 |357|[Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/)|[357_v1.cpp](357_v1.cpp)|Medium|6/16/2016|6'01"|1||
 |359|[Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/)|[359_v1.cpp](359_v1.cpp)|Easy|6/15/2016|2'07"|1||
