@@ -18,6 +18,7 @@ This repository keeps a list of the LeetCode problems I've solved. The threshold
 - 227. [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) and StefanPochmann's great [solution](https://leetcode.com/discuss/41641/17-lines-c-easy-20-ms).
 - 255. [Verify Preorder Sequence in Binary Search Tree](https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree/)
 - 299. [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)
+- 341. [Flatten Nest List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)
 
 ## Failed Problems
 - 130. [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)
@@ -33,6 +34,7 @@ This repository keeps a list of the LeetCode problems I've solved. The threshold
 - 326. [Power of Three](https://leetcode.com/problems/power-of-three/)
 - 328. [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)
 - 336. [Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/)
+- 341. [Flatten Nest List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)
 - 351. [Android Unlock Patterns](https://leetcode.com/problems/android-unlock-patterns/)
 - 353. [Design Snake Game](https://leetcode.com/problems/design-snake-game/)
 
@@ -41,7 +43,7 @@ This repository keeps a list of the LeetCode problems I've solved. The threshold
 - 214. [Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/)
 - 221. [Maximal Square](https://leetcode.com/problems/maximal-square/)
 
-## Submissions (304 / 344)
+## Submissions (309 / 344)
 |#|Problem|Solution|Difficulty|Date|Time|#Sub|Comment|
 |---|---|---|---|---|---|---|---|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[1_v1.cpp](1_v1.cpp)|Easy|5/9/2016|5'38"|2|O(n) Hash|
@@ -122,9 +124,11 @@ This repository keeps a list of the LeetCode problems I've solved. The threshold
 |78|[Subsets](https://leetcode.com/problems/subsets/)|[78_v1.cpp](78_v1.cpp)|Medium|5/31/2016|1'01"|1||
 |79|[Word Search](https://leetcode.com/problems/word-search/)|[79_v1.cpp](79_v1.cpp)|Medium|5/31/2016|5'57"|1||
 |80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|[80_v1.cpp](80_v1.cpp)|Medium|6/15/2016|2'05"|1||
+|81|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)|[81_v1.cpp](81_v1.cpp)|Medium|6/19/2016|10'05"|1||
 |82|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)|[82_v1.cpp](82_v1.cpp)|Medium|6/6/2016|12'55"|1||
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[83_v1.cpp](83_v1.cpp)|Easy|5/11/2016|2'07"|1||
 |84|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|[84_v1.cpp](84_v1.cpp)|Hard|6/18/2016|8'27"|1||
+|86|[Partition List](https://leetcode.com/problems/partition-list/)|[86_v1.cpp](86_v1.cpp)|Medium|6/19/2016|4'59"|1||
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[88_v1.cpp](88_v1.cpp)|Easy|5/14/2016|7'20"|2||
 |89|[Gray Code](https://leetcode.com/problems/gray-code/)|[89_v1.cpp](89_v1.cpp)|Medium|6/10/2016|3'03"|1||
 |90|[Subsets II](https://leetcode.com/problems/subsets-ii/)|[90_v1.cpp](90_v1.cpp)|Medium|6/11/2016|3'42"|1||
@@ -187,6 +191,7 @@ This repository keeps a list of the LeetCode problems I've solved. The threshold
 |146|[LRU Cache](https://leetcode.com/problems/lru-cache/)|[146_v1.cpp](146_v1.cpp)|Hard|5/14/2016|13'29"|12||
 |146|[LRU Cache](https://leetcode.com/problems/lru-cache/)|[146_v2.cpp](146_v2.cpp)|Hard|5/14/2016|5'18"|3|[Discussion](https://leetcode.com/discuss/20619/c-11-code-74ms-hash-table-list)|
 |147|[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)|[147_v1.cpp](147_v1.cpp)|Medium|5/31/2016|17'34"|2||
+|148|[Sort List](https://leetcode.com/problems/sort-list/)|[148_v1.cpp](148_v1.cpp)|Medium|6/19/2016|14'37"|1|O(logn) space|
 |149|[Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)|[149_v1.cpp](149_v1.cpp)|Hard|6/7/2016|8'04"|3||
 |150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|[150_v1.cpp](150_v1.cpp)|Medium|5/17/2016|4'12"|2||
 |151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|[151_v1.cpp](151_v1.cpp)|Medium|5/14/2016|11'31"|5||
@@ -314,6 +319,7 @@ This repository keeps a list of the LeetCode problems I've solved. The threshold
 |280|[Wiggle Sort](https://leetcode.com/problems/wiggle-sort/)|[280_v1.cpp](280_v1.cpp)|Medium|5/14/2016|4'58"|1||
 |281|[Zigzag Iterator](https://leetcode.com/problems/zigzag-iterator/)|[281_v1.cpp](281_v1.cpp)|Medium|5/14/2016|5'36"|1||
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[283_v1.cpp](283_v1.cpp)|Easy|5/11/2016|2'41"|2||
+|284|[Peeking Iterator](https://leetcode.com/problems/peeking-iterator/)|[284_v1.cpp](284_v1.cpp)|Medium|6/19/2016|3'48"|2||
 |285|[Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/)|[285_v1.cpp](285_v1.cpp)|Medium|6/15/2016|5'38"|4||
 |286|[Walls and Gates](https://leetcode.com/problems/walls-and-gates/)|[286_v1.cpp](286_v1.cpp)|Medium|5/16/2016|6'45"|2||
 |288|[Unique Word Abbreviation](https://leetcode.com/problems/unique-word-abbreviation/)|[288_v1.cpp](288_v1.cpp)|Easy|5/15/2016|5'38"|1||
@@ -365,6 +371,7 @@ This repository keeps a list of the LeetCode problems I've solved. The threshold
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/)|[338_v2.cpp](338_v2.cpp)|Medium|5/14/2016|1'23"|1||
 |339|[Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/)|[339_v1.cpp](339_v1.cpp)|Easy|5/10/2016|3'48"|1||
 |340|[Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/)|[340_v1.cpp](340_v1.cpp)|Hard|6/5/2016|7'53"|3||
+|341|[Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)|[341_v1.cpp](341_v1.cpp)|Medium|6/19/2016|**21'10"**|1|[Discussion](https://leetcode.com/discuss/95934/real-iterator-in-python-java-c)|
 |342|[Power of Four](https://leetcode.com/problems/power-of-four/)|[342_v1.cpp](342_v1.cpp)|Easy|5/14/2016|2'16"|1||
 |343|[Integer Break](https://leetcode.com/problems/integer-break/)|[343_v1.cpp](343_v1.cpp)|Medium|5/15/2016|5'17"|2||
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[344_v1.cpp](344_v1.cpp)|Easy|5/9/2016|0'25"|1||
