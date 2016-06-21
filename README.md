@@ -45,7 +45,7 @@ This repository keeps a list of the LeetCode problems I've solved. The threshold
 - 214. [Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/)
 - 221. [Maximal Square](https://leetcode.com/problems/maximal-square/)
 
-## Submissions (319 / 344)
+## Submissions (324 / 345)
 |#|Problem|Solution|Difficulty|Date|Time|#Sub|Comment|
 |---|---|---|---|---|---|---|---|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[1_v1.cpp](1_v1.cpp)|Easy|5/9/2016|5'38"|2|O(n) Hash|
@@ -78,6 +78,7 @@ This repository keeps a list of the LeetCode problems I've solved. The threshold
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[28_v1.cpp](28_v1.cpp)|Easy|5/15/2016|2'14"|2||
 |29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)|[29_v1.cpp](29_v1.cpp)|Medium|6/20/2016|6'46"|1||
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation/)|[31_v1.cpp](31_v1.cpp)|Medium|6/17/2016|9'12"|3||
+|32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)|[32_v1.cpp](32_v1.cpp)|Hard|6/21/2016|13'24"|3||
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[33_v1.cpp](33_v1.cpp)|Hard|6/18/2016|4'15"|1||
 |34|[Search for a Range](https://leetcode.com/problems/search-for-a-range/)|[34_v1.cpp](34_v1.cpp)|Medium|6/5/2016|2'19"|1||
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[35_v1.cpp](35_v1.cpp)|Medium|5/16/2016|3'08"|1||
@@ -169,6 +170,7 @@ This repository keeps a list of the LeetCode problems I've solved. The threshold
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[121_v1.cpp](121_v1.cpp)|Easy|5/11/2016|1'40"|2||
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[122_v1.cpp](122_v1.cpp)|Medium|5/15/2016|2'01"|1||
 |123|[Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)|[123_v1.cpp](123_v1.cpp)|Hard|6/3/2016|6'36"|1||
+|124|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)|[124_v1.cpp](124_v1.cpp)|Hard|6/21/2016|6'00"|1||
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[125_v1.cpp](125_v1.cpp)|Easy|5/15/2016|3'34"|1||
 |127|[Word Ladder](https://leetcode.com/problems/word-ladder/)|[127_v1.cpp](127_v1.cpp)|Medium|5/7/2016|5'46"|5||
 |127|[Word Ladder](https://leetcode.com/problems/word-ladder/)|[127_v2.cpp](127_v2.cpp)|Medium|5/9/2016|6'34"|5|Two-way BFS|
@@ -210,6 +212,8 @@ This repository keeps a list of the LeetCode problems I've solved. The threshold
 |159|[Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/)|[159_v1.cpp](159_v1.cpp)|Hard|6/6/2016|2'26"|1||
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[160_v1.cpp](160_v1.cpp)|Easy|5/10/2016|3'14"|3|Preprocess linked list lengths|
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[160_v2.cpp](160_v2.cpp)|Easy|5/10/2016|1'23"|2|[Discussion](https://leetcode.com/discuss/66203/java-solution-without-knowing-the-difference-in-len)|
+|160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[160_v3.cpp](160_v3.cpp)|Easy|6/21/2016|3'48"|2||
+|160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[160_v4.cpp](160_v4.cpp)|Easy|6/21/2016|4'39"|2||
 |161|[One Edit Distance](https://leetcode.com/problems/one-edit-distance/)|[161_v1.cpp](161_v1.cpp)|Medium|5/14/2016|3'50"|2||
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/)||Medium|6/11/2016|**Failed**|||
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[162_v1.cpp](162_v1.cpp)|Medium|6/11/2016|3'58"|2|[Discussion](https://leetcode.com/discuss/17793/find-the-maximum-by-binary-search-recursion-and-iteration)|
@@ -254,6 +258,7 @@ This repository keeps a list of the LeetCode problems I've solved. The threshold
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[215_v1.cpp](215_v1.cpp)|Medium|6/19/2016|11'13"|2||
 |216|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)|[216_v1.cpp](216_v1.cpp)|Medium|6/5/2016|9'30"|1||
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[217_v1.cpp](217_v1.cpp)|Easy|5/10/2016|0'40"|1||
+|218|[The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/)|[218_v1.cpp](218_v1.cpp)|Hard|6/21/2016|12'42"|2||
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|[219_v1.cpp](219_v1.cpp)|Easy|5/10/2016|2'35"|3||
 |220|[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/)|[220_v1.cpp](220_v1.cpp)|Medium|5/10/2016|7'43"|3||
 |220|[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/)|[220_v1_im.cpp](220_v1_im.cpp)|Medium|5/10/2016|1'55"|2|[Discussion](https://leetcode.com/discuss/45120/c-using-set-less-10-lines-with-simple-explanation)|
@@ -347,6 +352,7 @@ This repository keeps a list of the LeetCode problems I've solved. The threshold
 |302|[Smallest Rectangle Enclosing Black Pixels](https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels/)|[302_v1.cpp](302_v1.cpp)|Hard|6/18/2016|8'17"|1||
 |303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)|[303_v1.cpp](303_v1.cpp)|Easy|5/15/2016|1'59"|2||
 |304|[Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)|[304_v1.cpp](304_v1.cpp)|Medium|6/6/2016|6'46"|2||
+|305|[Number of Islands II](https://leetcode.com/problems/number-of-islands-ii/)|[305_v1.cpp](305_v1.cpp)|Hard|6/21/2016|6'55"|1||
 |306|[Additive Number](https://leetcode.com/problems/additive-number/)|[306_v1.cpp](306_v1.cpp)|Medium|6/6/2016|11'24"|3||
 |307|[Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/)|[307_v1.cpp](307_v1.cpp)|Medium|6/18/2016|11'44"|8||
 |307|[Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/)|[307_v2.cpp](307_v2.cpp)|Medium|6/18/2016|2'30"|1||
@@ -406,3 +412,4 @@ This repository keeps a list of the LeetCode problems I've solved. The threshold
 |359|[Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/)|[359_v1.cpp](359_v1.cpp)|Easy|6/15/2016|2'07"|1||
 |360|[Sort Transformed Array](https://leetcode.com/problems/sort-transformed-array/)|[360_v1.cpp](360_v1.cpp)|Medium|6/17/2016|15'45"|2||
 |361|[Bomb Enemy](https://leetcode.com/problems/bomb-enemy/)|[361_v1.cpp](361_v1.cpp)|Medium|6/18/2016|6'53"|1||
+|362|[Design Hit Counter](https://leetcode.com/problems/design-hit-counter/)|[362_v1.cpp](362_v1.cpp)|Medium|6/21/2016|10'45"|2||
