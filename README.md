@@ -45,7 +45,7 @@ This repository keeps a list of the LeetCode problems I've solved. The threshold
 - 214. [Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/)
 - 221. [Maximal Square](https://leetcode.com/problems/maximal-square/)
 
-## Submissions (324 / 345)
+## Submissions (328 / 349)
 |#|Problem|Solution|Difficulty|Date|Time|#Sub|Comment|
 |---|---|---|---|---|---|---|---|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[1_v1.cpp](1_v1.cpp)|Easy|5/9/2016|5'38"|2|O(n) Hash|
@@ -413,3 +413,7 @@ This repository keeps a list of the LeetCode problems I've solved. The threshold
 |360|[Sort Transformed Array](https://leetcode.com/problems/sort-transformed-array/)|[360_v1.cpp](360_v1.cpp)|Medium|6/17/2016|15'45"|2||
 |361|[Bomb Enemy](https://leetcode.com/problems/bomb-enemy/)|[361_v1.cpp](361_v1.cpp)|Medium|6/18/2016|6'53"|1||
 |362|[Design Hit Counter](https://leetcode.com/problems/design-hit-counter/)|[362_v1.cpp](362_v1.cpp)|Medium|6/21/2016|10'45"|2||
+|363|[Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-sub-matrix-no-larger-than-k/)|[363_v1.cpp](363_v1.cpp)|Hard|6/24/2016|19'38"|2||
+|364|[Nested List Weight Sum II](https://leetcode.com/problems/nested-list-weight-sum-ii/)|[364_v1.cpp](364_v1.cpp)|Medium|6/23/2016|11'17"|1||
+|365|[Water and Jug Problem](https://leetcode.com/problems/water-and-jug-problem/)|[365_v1.cpp](365_v1.cpp)|Medium|6/24/2016|1'55"|3||
+|366|[Find Leaves of Binary Tree](https://leetcode.com/problems/find-leaves-of-binary-tree/)|[366_v1.cpp](366_v1.cpp)|Medium|6/24/2016|5'25"|1||
