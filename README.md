@@ -45,7 +45,7 @@ This repository keeps a list of the LeetCode problems I've solved. The threshold
 - 214. [Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/)
 - 221. [Maximal Square](https://leetcode.com/problems/maximal-square/)
 
-## Submissions (328 / 349)
+## Submissions (330 / 350)
 |#|Problem|Solution|Difficulty|Date|Time|#Sub|Comment|
 |---|---|---|---|---|---|---|---|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[1_v1.cpp](1_v1.cpp)|Easy|5/9/2016|5'38"|2|O(n) Hash|
@@ -87,6 +87,7 @@ This repository keeps a list of the LeetCode problems I've solved. The threshold
 |37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)|[37_v1.cpp](37_v1.cpp)|Hard|6/6/2016|7'33"|2||
 |38|[Count and Say](https://leetcode.com/problems/count-and-say/)|[38_v1.cpp](38_v1.cpp)|Easy|5/14/2016|3'33"|1||
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/)|[39_v1.cpp](39_v1.cpp)|Medium|5/7/2016|2'59"|1||
+|39|[Combination Sum](https://leetcode.com/problems/combination-sum/)|[39_v2.cpp](39_v2.cpp)|Medium|6/25/2016|3'40"|1||
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)|[40_v1.cpp](40_v1.cpp)|Medium|6/9/2016|4'52"|1||
 |41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|[41_v1.cpp](41_v1.cpp)|Hard|6/7/2016|5'41"|2||
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[42_v1.cpp](42_v1.cpp)|Hard|6/6/2016|3'36"|1||
@@ -116,6 +117,7 @@ This repository keeps a list of the LeetCode problems I've solved. The threshold
 |66|[Plus One](https://leetcode.com/problems/plus-one/)|[66_v1.cpp](66_v1.cpp)|Easy|5/14/2016|2'59"|1||
 |67|[Add Binary](https://leetcode.com/problems/add-binary/)|[67_v1.cpp](67_v1.cpp)|Easy|5/15/2016|3'42"|1||
 |68|[Text Justification](https://leetcode.com/problems/text-justification/)|[68_v1.cpp](68_v1.cpp)|Hard|5/12/2016|11'05"|2||
+|68|[Text Justification](https://leetcode.com/problems/text-justification/)|[68_v2.cpp](68_v2.cpp)|Hard|6/25/2016|9'59"|1||
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[69_v1.cpp](69_v1.cpp)|Medium|6/5/2016|4'47"|1||
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[70_v1.cpp](70_v1.cpp)|Easy|5/11/2016|0'36"|1||
 |71|[Simplify Path](https://leetcode.com/problems/simplify-path/)|[71_v1.cpp](71_v1.cpp)|Medium|5/31/2016|4'09"|3||
@@ -384,6 +386,8 @@ This repository keeps a list of the LeetCode problems I've solved. The threshold
 |333|[Largest BST Subtree](https://leetcode.com/problems/largest-bst-subtree/)|[333_v1.cpp](333_v1.cpp)|Medium|6/11/2016|19'22"|3||
 |334|[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)|[334_v1.cpp](334_v1.cpp)|Medium|6/9/2016|14'06"|1||
 |336|[Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/)|[336_v1.cpp](336_v1.cpp)|Hard|5/12/2016|**Failed**||MLE|
+|336|[Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/)|[336_v2.cpp](336_v2.cpp)|Hard|6/26/2016|**37'53"**|3|O(NL^2)|
+|336|[Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/)|[336_v2_im.cpp](336_v2_im.cpp)|Hard|6/26/2016|12'01"|1||
 |337|[House Robber III](https://leetcode.com/problems/house-robber-iii/)|[337_v1.cpp](337_v1.cpp)|Medium|5/31/2016|9'54"|3||
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/)|[338_v1.cpp](338_v1.cpp)|Medium|5/14/2016|2'55"|1||
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/)|[338_v2.cpp](338_v2.cpp)|Medium|5/14/2016|1'23"|1||
@@ -417,3 +421,4 @@ This repository keeps a list of the LeetCode problems I've solved. The threshold
 |364|[Nested List Weight Sum II](https://leetcode.com/problems/nested-list-weight-sum-ii/)|[364_v1.cpp](364_v1.cpp)|Medium|6/23/2016|11'17"|1||
 |365|[Water and Jug Problem](https://leetcode.com/problems/water-and-jug-problem/)|[365_v1.cpp](365_v1.cpp)|Medium|6/24/2016|1'55"|3||
 |366|[Find Leaves of Binary Tree](https://leetcode.com/problems/find-leaves-of-binary-tree/)|[366_v1.cpp](366_v1.cpp)|Medium|6/24/2016|5'25"|1||
+|367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|[367_v1.cpp](367_v1.cpp)|Medium|6/26/2016|3'36"|2||
