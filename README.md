@@ -15,6 +15,7 @@ This repository keeps a list of the LeetCode problems I've solved. The threshold
 - 162. [Find Peak Element](https://leetcode.com/problems/find-peak-element/)
 - 166. [Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/)
 - 220. [Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/)
+- 224. [Basic Calculator](https://leetcode.com/problems/basic-calculator/)
 - 227. [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) and StefanPochmann's great [solution](https://leetcode.com/discuss/41641/17-lines-c-easy-20-ms).
 - 255. [Verify Preorder Sequence in Binary Search Tree](https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree/)
 - 299. [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)
@@ -22,6 +23,7 @@ This repository keeps a list of the LeetCode problems I've solved. The threshold
 - 341. [Flatten Nest List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)
 
 ## Failed Problems
+- 99. [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/)
 - 130. [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)
 - 162. [Find Peak Element](https://leetcode.com/problems/find-peak-element/)
 - 165. [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)
@@ -45,7 +47,7 @@ This repository keeps a list of the LeetCode problems I've solved. The threshold
 - 214. [Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/)
 - 221. [Maximal Square](https://leetcode.com/problems/maximal-square/)
 
-## Submissions (330 / 350)
+## Submissions (335 / 352)
 |#|Problem|Solution|Difficulty|Date|Time|#Sub|Comment|
 |---|---|---|---|---|---|---|---|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[1_v1.cpp](1_v1.cpp)|Easy|5/9/2016|5'38"|2|O(n) Hash|
@@ -147,6 +149,8 @@ This repository keeps a list of the LeetCode problems I've solved. The threshold
 |96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)|[96_v1.cpp](96_v1.cpp)|Medium|5/7/2016|1'57"|1||
 |97|[Interleaving String](https://leetcode.com/problems/interleaving-string/)|[97_v1.cpp](97_v1.cpp)|Hard|6/9/2016|7'56"|2||
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[98_v1.cpp](98_v1.cpp)|Medium|6/5/2016|2'58"|1||
+|99|[Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/)||Hard|6/28/2016|**Failed**|||
+|99|[Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/)|[99_v1.cpp](99_v1.cpp)|Hard|6/28/2016|10'55"|2|[Discussion](https://leetcode.com/discuss/13034/no-fancy-algorithm-just-simple-and-powerful-order-traversal)|
 |100|[Same Tree](https://leetcode.com/problems/same-tree/)|[100_v1.cpp](100_v1.cpp)|Easy|5/11/2016|0'50"|1||
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[101_v1.cpp](101_v1.cpp)|Easy|5/13/2016|2'18"|2||
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[102_v1.cpp](102_v1.cpp)|Easy|5/14/2016|2'30"|1||
@@ -269,6 +273,7 @@ This repository keeps a list of the LeetCode problems I've solved. The threshold
 |222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)|[222_v1_TLE.cpp](222_v1_TLE.cpp)|Medium|6/8/2016|**Failed**|||
 |222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)|[222_v2.cpp](222_v2.cpp)|Medium|6/8/2016|||[Discussion](https://leetcode.com/discuss/38930/concise-java-solutions-o-log-n-2)|
 |223|[Rectangle Area](https://leetcode.com/problems/rectangle-area/)|[223_v1.cpp](223_v1.cpp)|Easy|5/14/2016|**11'12"**|3|**You suck**|
+|224|[Basic Calculator](https://leetcode.com/problems/basic-calculator/)|[224_v1.cpp](224_v1.cpp)|Hard|6/28/2016|29'53"|1||
 |225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)|[225_v1.cpp](225_v1.cpp)|Easy|5/14/2016|8'29"|1||
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[226_v1.cpp](226_v1.cpp)|Easy|5/11/2016|1'23"|1||
 |227|[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)|[227_v1.cpp](227_v1.cpp)|Medium|5/17/2016|14'05"|1||
@@ -340,6 +345,7 @@ This repository keeps a list of the LeetCode problems I've solved. The threshold
 |289|[Game of Life](https://leetcode.com/problems/game-of-life/)|[289_v1.cpp](289_v1.cpp)|Medium|5/14/2016|4'51"|1||
 |289|[Game of Life](https://leetcode.com/problems/game-of-life/)|[289_v2.cpp](289_v2.cpp)|Medium|5/14/2016|11'10"|1|In place|
 |290|[Word Pattern](https://leetcode.com/problems/word-pattern/)|[290_v1.cpp](290_v1.cpp)|Easy|5/14/2016|9'30"|2||
+|291|[Word Pattern II](https://leetcode.com/problems/word-pattern-ii/)|[291_v1.cpp](291_v1.cpp)|Hard|6/27/2016|9'44"|2||
 |292|[Nim Game](https://leetcode.com/problems/nim-game/)|[292_v1.cpp](292_v1.cpp)|Easy|5/10/2016|1'50"|1||
 |293|[Flip Game](https://leetcode.com/problems/flip-game/)|[293_v1.cpp](293_v1.cpp)|Easy|5/10/2016|1'22"|1||
 |294|[Flip Game II](https://leetcode.com/problems/flip-game-ii/)|[294_v1.cpp](294_v1.cpp)|Medium|5/15/2016|5'11"|2||
@@ -422,3 +428,5 @@ This repository keeps a list of the LeetCode problems I've solved. The threshold
 |365|[Water and Jug Problem](https://leetcode.com/problems/water-and-jug-problem/)|[365_v1.cpp](365_v1.cpp)|Medium|6/24/2016|1'55"|3||
 |366|[Find Leaves of Binary Tree](https://leetcode.com/problems/find-leaves-of-binary-tree/)|[366_v1.cpp](366_v1.cpp)|Medium|6/24/2016|5'25"|1||
 |367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|[367_v1.cpp](367_v1.cpp)|Medium|6/26/2016|3'36"|2||
+|368|[Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/)|[368_v1.cpp](368_v1.cpp)|Medium|6/27/2016|7'33"|2||
+|369|[Plus One Linked List](https://leetcode.com/problems/plus-one-linked-list/)|[369_v1.cpp](369_v1.cpp)|Medium|6/28/2016|7'01"|1||
