@@ -47,7 +47,7 @@ This repository keeps a list of the LeetCode problems I've solved. The threshold
 - 214. [Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/)
 - 221. [Maximal Square](https://leetcode.com/problems/maximal-square/)
 
-## Submissions (335 / 352)
+## Submissions (339 / 354)
 |#|Problem|Solution|Difficulty|Date|Time|#Sub|Comment|
 |---|---|---|---|---|---|---|---|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[1_v1.cpp](1_v1.cpp)|Easy|5/9/2016|5'38"|2|O(n) Hash|
@@ -75,6 +75,7 @@ This repository keeps a list of the LeetCode problems I've solved. The threshold
 |23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|[23_v1.cpp](23_v1.cpp)|Hard|5/11/2016|4'26"|3||
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[24_v1.cpp](24_v1.cpp)|Easy|5/11/2016|3'21"|2|Not O(1) space|
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[24_v2.cpp](24_v2.cpp)|Easy|5/13/2016|5'04"|1|O(1) space|
+|25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)|[25_v1.cpp](25_v1.cpp)|Hard|7/4/2016|18'46"|1||
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[26_v1.cpp](26_v1.cpp)|Easy|5/14/2016|1'42"|1||
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)|[27_v1.cpp](27_v1.cpp)|Easy|5/13/2016|0'43"|1||
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[28_v1.cpp](28_v1.cpp)|Easy|5/15/2016|2'14"|2||
@@ -336,6 +337,7 @@ This repository keeps a list of the LeetCode problems I've solved. The threshold
 |279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/)|[279_v1.cpp](279_v1.cpp)|Medium|5/31/2016|3'54"|1||
 |280|[Wiggle Sort](https://leetcode.com/problems/wiggle-sort/)|[280_v1.cpp](280_v1.cpp)|Medium|5/14/2016|4'58"|1||
 |281|[Zigzag Iterator](https://leetcode.com/problems/zigzag-iterator/)|[281_v1.cpp](281_v1.cpp)|Medium|5/14/2016|5'36"|1||
+|282|[Expression Add Operators](https://leetcode.com/problems/expression-add-operators/)|[282_v1.cpp](282_v1.cpp)|Hard|7/5/2016|21'13"|2|[Discussion](https://discuss.leetcode.com/topic/24523/java-standard-backtrace-ac-solutoin-short-and-clear/4)|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[283_v1.cpp](283_v1.cpp)|Easy|5/11/2016|2'41"|2||
 |284|[Peeking Iterator](https://leetcode.com/problems/peeking-iterator/)|[284_v1.cpp](284_v1.cpp)|Medium|6/19/2016|3'48"|2||
 |285|[Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/)|[285_v1.cpp](285_v1.cpp)|Medium|6/15/2016|5'38"|4||
