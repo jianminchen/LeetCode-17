@@ -128,6 +128,7 @@ This repository keeps a list of the LeetCode problems I've solved. The threshold
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|[73_v1.cpp](73_v1.cpp)|Medium|6/8/2016|7'10"|2||
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[74_v1.cpp](74_v1.cpp)|Medium|6/8/2016|2'29"|1||
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors/)|[75_v1.cpp](75_v1.cpp)|Medium|6/19/2016|9'12"|1|[GeeksforGeeks](http://www.geeksforgeeks.org/sort-an-array-of-0s-1s-and-2s/)|
+|75|[Sort Colors](https://leetcode.com/problems/sort-colors/)|[75_v2.cpp](75_v2.cpp)|Medium|7/6/2016|2'33"|1||
 |76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)|[76_v1.cpp](76_v1.cpp)|Hard|6/15/2016|11'51"|3||
 |77|[Combinations](https://leetcode.com/problems/combinations/)|[77_v1.cpp](77_v1.cpp)|Medium|6/16/2016|3'01"|1||
 |78|[Subsets](https://leetcode.com/problems/subsets/)|[78_v1.cpp](78_v1.cpp)|Medium|5/31/2016|1'01"|1||
