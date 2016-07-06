@@ -47,7 +47,7 @@ This repository keeps a list of the LeetCode problems I've solved. The threshold
 - 214. [Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/)
 - 221. [Maximal Square](https://leetcode.com/problems/maximal-square/)
 
-## Submissions (339 / 354)
+## Submissions (340 / 354)
 |#|Problem|Solution|Difficulty|Date|Time|#Sub|Comment|
 |---|---|---|---|---|---|---|---|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[1_v1.cpp](1_v1.cpp)|Easy|5/9/2016|5'38"|2|O(n) Hash|
@@ -432,3 +432,5 @@ This repository keeps a list of the LeetCode problems I've solved. The threshold
 |367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|[367_v1.cpp](367_v1.cpp)|Medium|6/26/2016|3'36"|2||
 |368|[Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/)|[368_v1.cpp](368_v1.cpp)|Medium|6/27/2016|7'33"|2||
 |369|[Plus One Linked List](https://leetcode.com/problems/plus-one-linked-list/)|[369_v1.cpp](369_v1.cpp)|Medium|6/28/2016|7'01"|1||
+|370|[Range Addition](https://leetcode.com/problems/range-addition/)|[370_v1.cpp](370_v1.cpp)|Medium|7/2/2016|3'04"|1||
+|371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)|[371_v1.cpp](371_v1.cpp)|Easy|7/2/2016|2'03"|1||
