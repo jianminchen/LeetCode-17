@@ -47,7 +47,7 @@ This repository keeps a list of the LeetCode problems I've solved. The threshold
 - 214. [Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/)
 - 221. [Maximal Square](https://leetcode.com/problems/maximal-square/)
 
-## Submissions (337 / 354)
+## Submissions (340 / 354)
 |#|Problem|Solution|Difficulty|Date|Time|#Sub|Comment|
 |---|---|---|---|---|---|---|---|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[1_v1.cpp](1_v1.cpp)|Easy|5/9/2016|5'38"|2|O(n) Hash|
@@ -357,6 +357,7 @@ This repository keeps a list of the LeetCode problems I've solved. The threshold
 |299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)|[299_v1.cpp](299_v1.cpp)|Easy|5/14/2016|3'50"|2||
 |299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)|[299_v2.cpp](299_v2.cpp)|Easy|5/14/2016|1'32"|1|[Discussion](https://leetcode.com/discuss/67031/one-pass-java-solution)|
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|[300_v1.cpp](300_v1.cpp)|Medium|6/18/2016|4'13"|1||
+|301|[Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/)|[301_v1.cpp](301_v1.cpp)|Hard|7/5/2016|11'48"|1||
 |302|[Smallest Rectangle Enclosing Black Pixels](https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels/)|[302_v1.cpp](302_v1.cpp)|Hard|6/18/2016|8'17"|1||
 |303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)|[303_v1.cpp](303_v1.cpp)|Easy|5/15/2016|1'59"|2||
 |304|[Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)|[304_v1.cpp](304_v1.cpp)|Medium|6/6/2016|6'46"|2||
