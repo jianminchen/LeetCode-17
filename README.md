@@ -41,13 +41,14 @@ This repository keeps a list of the LeetCode problems I've solved. The threshold
 - 341. [Flatten Nest List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)
 - 351. [Android Unlock Patterns](https://leetcode.com/problems/android-unlock-patterns/)
 - 353. [Design Snake Game](https://leetcode.com/problems/design-snake-game/)
+- 373. [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/)
 
 ## Problems to Review
 - 213. [House Robber II](https://leetcode.com/problems/house-robber-ii/)
 - 214. [Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/)
 - 221. [Maximal Square](https://leetcode.com/problems/maximal-square/)
 
-## Submissions (341 / 356)
+## Submissions (343 / 358)
 |#|Problem|Solution|Difficulty|Date|Time|#Sub|Comment|
 |---|---|---|---|---|---|---|---|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[1_v1.cpp](1_v1.cpp)|Easy|5/9/2016|5'38"|2|O(n) Hash|
@@ -438,3 +439,5 @@ This repository keeps a list of the LeetCode problems I've solved. The threshold
 |369|[Plus One Linked List](https://leetcode.com/problems/plus-one-linked-list/)|[369_v1.cpp](369_v1.cpp)|Medium|6/28/2016|7'01"|1||
 |370|[Range Addition](https://leetcode.com/problems/range-addition/)|[370_v1.cpp](370_v1.cpp)|Medium|7/2/2016|3'04"|1||
 |371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)|[371_v1.cpp](371_v1.cpp)|Easy|7/2/2016|2'03"|1||
+|373|[Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/)|[373_v1.cpp](373_v1.cpp)|Medium|7/9/2016|**26'11"**|1||
+|374|[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)|[374_v1.cpp](374_v1.cpp)|Easy|7/15/2016|1'35"|1||
